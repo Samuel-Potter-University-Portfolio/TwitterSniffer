@@ -6,20 +6,9 @@
 			<accessrule kind="accessible" pattern="com/sun/net/httpserver/**"/>
 		</accessrules>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/OkHTTP/okhttp-3.4.2.jar"/>
 	<classpathentry kind="lib" path="lib/JTwitter/commons-codec.jar"/>
 	<classpathentry kind="lib" path="lib/JTwitter/jtwitter.jar"/>
 	<classpathentry kind="lib" path="lib/JTwitter/signpost-commonshttp4.jar"/>
 	<classpathentry kind="lib" path="lib/JTwitter/signpost-core.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/fluent-hc-4.5.2.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/httpclient-cache-4.5.2.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/httpclient-win-4.5.2.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/httpmime-4.5.2.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/jna-4.1.0.jar"/>
-	<classpathentry kind="lib" path="lib/Apache/jna-platform-4.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
